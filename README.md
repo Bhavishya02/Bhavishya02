@@ -2,7 +2,7 @@
 
 I am a CS graduate from IIITU, 
 
-I am working on several projects. 
+I am working on several projects here. 
 
 ## Get in Touch
 
