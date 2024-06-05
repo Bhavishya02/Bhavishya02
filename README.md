@@ -10,4 +10,4 @@ I am working on several projects here.
 - [Email](mailto:bhavishyasolviya@gmail.com)
 
 ## Here is my resume for your referrence
-- [Resume] (https://bit.ly/3Kvv4Ex)
+- [Resume](https://bit.ly/3Kvv4Ex)
