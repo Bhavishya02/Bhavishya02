@@ -1,4 +1,4 @@
-## Hello visitor 🫵
+## Hello visitor 
 
 I am a CS graduate from IIITU
 
